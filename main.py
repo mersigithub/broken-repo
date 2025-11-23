@@ -1,3 +1,3 @@
 # main.py
-def hello()
+def hello():
     print("Hello")  # Missing colon
